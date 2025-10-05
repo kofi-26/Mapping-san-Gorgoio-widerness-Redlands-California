@@ -7,3 +7,7 @@
 2. Removing federal reserves that are not needed from the map.
 
 <img width="1323" height="730" alt="6  removing the federal reserves from the map" src="https://github.com/user-attachments/assets/d02843c7-ac63-4218-a15d-62033a1e71c7" />
+
+3. searching the project area using the locateer button
+
+   <img width="1303" height="648" alt="mapproject3 project in SanGornonion search using locator" src="https://github.com/user-attachments/assets/1c0e4e65-0c2b-4414-a8fa-7d2ab7dc5fbe" />
