@@ -11,3 +11,7 @@
 3. searching the project area using the locateer button
 
    <img width="1303" height="648" alt="mapproject3 project in SanGornonion search using locator" src="https://github.com/user-attachments/assets/1c0e4e65-0c2b-4414-a8fa-7d2ab7dc5fbe" />
+
+4. Mappin g out the wilderness areas in the project area
+
+ <img width="1012" height="508" alt="Mapproject5  mappingout wilderness areas in the united states" src="https://github.com/user-attachments/assets/3458a6c0-a05b-4d78-8847-d3989b626fd8" />
